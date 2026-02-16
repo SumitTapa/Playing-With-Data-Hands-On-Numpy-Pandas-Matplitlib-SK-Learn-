@@ -35,7 +35,7 @@ This repo documents my journey of learning through practice, featuring:
 
 ```bash
 # Clone the repository
-git clone https://github.com/SumitTapa/Playing-With-np-pd-mplotlib-sklearn.git
+git clone https://github.com/SumitTapa/Playing-With-Data-Hands-On-Numpy-Pandas-Matplitlib-SK-Learn-
 
 # Install required packages
 pip install numpy pandas matplotlib scikit-learn jupyter

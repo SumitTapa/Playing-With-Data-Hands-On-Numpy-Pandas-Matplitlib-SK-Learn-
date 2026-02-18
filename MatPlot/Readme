@@ -39,10 +39,14 @@ This is a **learning-focused notebook** showing step-by-step experimentation rat
 ## How to Run
 
 1. Clone the repository
+""" git clone https://github.com/SumitTapa/Playing-With-Data-Hands-On-Numpy-Pandas-Matplitlib-SK-Learn-.git
+                                                          OR
+# Navigate to the MatPlot directory
+cd "Playing-With-Data-Hands-On-Numpy-Pandas-Matplitlib-SK-Learn-/MatPlot""""
 2. Install required packages
 
 ```bash
-pip install numpy matplotlib jupyter
+pip install numpy wordcloud  matplotlib jupyter
 ```
 
 3. Open the notebook

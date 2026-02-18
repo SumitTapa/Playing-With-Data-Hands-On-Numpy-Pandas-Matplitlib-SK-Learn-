@@ -1,0 +1,69 @@
+# 📊 Matplotlib Practice Notebook
+
+## Overview
+
+This repository contains a practice notebook focused on learning and applying data visualization techniques using **Matplotlib** in Python. The goal of this notebook is to build intuition for plotting data, customizing visualizations, and understanding how visual patterns help in data analysis.
+
+The notebook demonstrates fundamental plotting workflows typically used in real-world data science tasks such as exploratory data analysis (EDA), trend identification, and statistical interpretation.
+
+---
+
+## Objectives
+
+* Understand how Matplotlib works internally
+* Learn to create different types of plots
+* Customize figures (labels, titles, legends, styles)
+* Improve data interpretation using visualization
+* Build confidence in EDA workflows
+
+---
+
+## Concepts Covered
+
+* Line plots
+* Scatter plots
+* Bar charts
+* Histograms
+* Multiple plots in one figure
+* Grid, labels, titles, legends
+* Figure sizing and styling
+
+---
+
+## What This Project Demonstrates
+
+This is a **learning-focused notebook** showing step-by-step experimentation rather than a polished production analysis. The emphasis is on understanding visualization behavior and developing intuition for presenting data effectively.
+
+---
+
+## How to Run
+
+1. Clone the repository
+2. Install required packages
+
+```bash
+pip install numpy matplotlib jupyter
+```
+
+3. Open the notebook
+
+```bash
+jupyter notebook MatplotLib.ipynb
+```
+
+---
+
+## Learning Outcome
+
+After completing this notebook, you should be able to:
+
+* Choose appropriate plot types for datasets
+* Customize charts for clarity
+* Perform basic exploratory data analysis visually
+* Interpret distributions and relationships in data
+
+---
+
+## Author - Sumit
+
+Practice notebook created as part of daily GitHub learning and consistency building in Data Science and Machine Learning journey.

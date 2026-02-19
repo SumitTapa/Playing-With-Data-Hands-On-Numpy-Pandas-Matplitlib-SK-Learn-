@@ -1,0 +1,66 @@
+# 📈 Seaborn Visualization Practice Notebook
+
+## Overview
+
+This repository contains a practice notebook dedicated to learning statistical data visualization using **Seaborn** in Python. The notebook focuses on understanding how to explore relationships, distributions, and patterns in datasets using high‑level visualization techniques built on top of Matplotlib.
+
+---
+
+## Objectives
+
+* Learn statistical plotting concepts
+* Visualize distributions and correlations
+* Understand categorical vs numerical relationships
+* Improve exploratory data analysis (EDA) skills
+* Build intuition for interpreting visual patterns in data
+
+---
+
+## Concepts Covered
+
+* Distribution plots (histplot, kdeplot)
+* Categorical plots (boxplot, violinplot, barplot)
+* Relationship plots (scatterplot, pairplot)
+* Correlation heatmaps
+* Styling and themes
+* Combining Seaborn with Matplotlib customization
+
+---
+
+## What This Project Demonstrates
+
+This is a learning‑oriented notebook showing hands‑on experimentation with statistical visualization. The focus is on understanding *when and why* to use specific plots rather than producing a final polished report.
+
+---
+
+## How to Run
+
+1. Clone the repository
+2. Install required packages
+
+```bash
+pip install numpy pandas matplotlib seaborn jupyter
+```
+
+3. Open the notebook
+
+```bash
+jupyter notebook SeaBorn.ipynb
+```
+
+---
+
+## Learning Outcome
+
+After completing this notebook, you should be able to:
+
+* Choose suitable plots for different data types
+* Detect outliers and skewness visually
+* Analyze feature relationships and correlations
+* Perform effective exploratory data analysis
+
+---
+
+## Author
+
+Created as part of a daily GitHub learning routine to strengthen Data Science and Machine Learning fundamentals.

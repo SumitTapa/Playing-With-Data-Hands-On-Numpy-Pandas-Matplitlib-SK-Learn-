@@ -1,0 +1,13 @@
+Month,Tourist_Arrivals,Country,Average_Travel_Cost,Hotel_Bookings,Hotel_Price,Season,Start_Date,End_Date,Activity,Hotel_Rating
+Jan,12000,USA,800,300,100,Winter,2025-01-05,2025-01-10,Sightseeing,4.5
+Feb,15000,UK,750,280,120,Winter,2025-02-10,2025-02-15,Adventure Sports,4.2
+Mar,18000,Germany,900,320,130,Spring,2025-03-15,2025-03-20,Cultural Tour,4.7
+Apr,21000,France,850,310,110,Spring,2025-04-20,2025-04-25,Beach Holiday,4.3
+May,25000,India,700,290,140,Summer,2025-05-25,2025-05-30,Mountain Trek,4.1
+Jun,27000,China,950,350,150,Summer,2025-06-30,2025-07-05,Cruise,4.8
+Jul,30000,Australia,920,340,160,Summer,2025-07-05,2025-07-10,Wildlife Safari,4.6
+Aug,29000,Canada,870,330,125,Summer,2025-08-10,2025-08-15,City Tour,4.4
+Sep,26000,Japan,890,320,135,Autumn,2025-09-15,2025-09-20,Historical Sites,4.5
+Oct,22000,Brazil,730,300,145,Autumn,2025-10-20,2025-10-25,Food Tour,4.2
+Nov,18000,Italy,810,310,155,Winter,2025-11-25,2025-11-30,Shopping,4.3
+Dec,14000,Russia,880,325,165,Winter,2025-12-30,2025-12-31,Skiing,4.6

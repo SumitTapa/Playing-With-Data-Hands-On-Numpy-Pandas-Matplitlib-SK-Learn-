@@ -1,0 +1,96 @@
+# 🚗 Used Car Price Analysis — Exploratory Data Analysis (EDA)
+
+## Overview
+
+This project performs Exploratory Data Analysis (EDA) on a used car listings dataset to identify the key factors influencing resale price. Using Python visualization libraries, the notebook investigates how vehicle attributes such as age, mileage, and seller type affect selling price.
+
+The goal is to simulate a real‑world business analysis scenario where insights help pricing strategy and decision‑making in the automobile resale market.
+
+---
+
+## Problem Statement
+
+Used car prices vary significantly across listings. The objective is to understand which features most strongly influence price so buyers and sellers can make informed decisions.
+
+---
+
+## Dataset Features (Typical)
+
+* Year of purchase
+* Selling price
+* Present price
+* Kilometers driven
+* Fuel type
+* Seller type (Dealer / Individual)
+* Transmission type
+* Owner history
+
+---
+
+## Analysis Performed
+
+* Data cleaning and preprocessing
+* Feature engineering (Car Age creation)
+* Distribution analysis
+* Relationship analysis between variables
+* Comparative category analysis
+* Insight extraction using statistical visualization
+
+---
+
+## Visualizations Used
+
+* Countplots
+* Boxplots
+* Scatter plots
+* Distribution plots
+* Correlation analysis
+
+---
+
+## Key Insights
+
+* Older cars generally have lower resale value
+* Higher kilometers driven reduces selling price
+* Dealer listings show different price distributions than individual sellers
+* Certain fuel and transmission types influence pricing behavior
+
+---
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+---
+
+## How to Run
+
+```bash
+pip install pandas numpy matplotlib seaborn jupyter
+jupyter notebook Used_Car_Price_Data_Visualisation.ipynb
+```
+
+---
+
+## Learning Outcome
+
+This project demonstrates the ability to:
+
+* Perform structured EDA
+* Engineer meaningful features
+* Extract business insights from data
+* Communicate findings using visualization
+
+---
+
+## Author
+Sumit Tapa  
+M.Tech (Mathematical Modeling & Simulation)  
+Aspiring Data Scientist / Machine Learning Engineer
+
+Part of a daily GitHub data science practice routine focused on building strong analytical and machine learning foundations.

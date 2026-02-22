@@ -1,0 +1,2 @@
+Contains the raw daa file on which operations were performed.
+Download this csv and change the read location in the ipynb as per your computer loaction

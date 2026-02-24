@@ -42,7 +42,14 @@ This project showcases techniques to transform raw data into a clean and structu
 - Pandas
 - NumPy
 - Jupyter Notebook
+  
+# pip install pandas numpy jupyter
 
 ---
 
-## How to Run
+---
+
+## Author
+Sumit Tapa  
+M.Tech – Mathematical Modeling & Simulation  
+Aspiring Data Scientist / Machine Learning Engineer
